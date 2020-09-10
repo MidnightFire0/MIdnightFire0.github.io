@@ -7,6 +7,13 @@ subtitle: An normal person
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
+姓名：张浚殷<br>
+性别：男<br>
+出生日期：1999.7.23<br>
+民族：汉<br>
+所学专业：计算机科学系<br>
+学历：大专<br>
+
 ### SKILLS
 ``` 网站开发一般是原创，网站制作可以用别人的模板。网站开发字面意思比制作有更深层次的进步，它不仅仅是网站美工和内容，它可能涉及到域名注册查询、网站的一些功能的开发。  ```  
 
@@ -63,10 +70,3 @@ Technologies used
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
-
-姓名：张浚殷<br>
-性别：男<br>
-出生日期：1999.7.23<br>
-民族：汉<br>
-所学专业：计算机科学系<br>
-学历：大专<br>
