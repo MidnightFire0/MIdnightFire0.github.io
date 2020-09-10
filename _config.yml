@@ -1,7 +1,7 @@
 # Site settings
 title: 张浚殷的技术博客
 description: >
-  这是一个计算机科学系的学生创造的博客，还有许多不成熟，请多多谅解。
+  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://knhash.github.io" # the base hostname & protocol for your site
