@@ -1,5 +1,5 @@
 # Site settings
-title: Fire
+title: 张浚殷的技术博客
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://knhash.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: Mr.张
   github: github
   linkedin: linkedin
   email: 11103889680@qq.com
