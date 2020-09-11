@@ -1,5 +1,5 @@
 ---
-layout: self
+layout: page
 title: Message board
 subtitle: This is my message board
 ---
