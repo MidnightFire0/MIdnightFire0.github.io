@@ -17,7 +17,7 @@ subtitle: An normal person
 ### SKILLS
 ``` 进行初级的网站开发，运用最基本的学习技巧与技能，虽然只有一点皮毛，不过会尽力的。  ```  
 
-网站开发<br>
+### 网站开发<br>
 
 ### PROJECTS
 **Title** - 发展趋势 <span style="float: right; ">Time span</span>  
@@ -34,41 +34,35 @@ subtitle: An normal person
 　　良好的信息辅具，如屏幕报读软件、点字显示屏等。
 　　用户要具备足以操作浏览辅具的能力：经过良好的训练与学习，视障或学习障碍者仍然可以获取所需的网页信息。
 
-### EDUCATION
+### DIRECTION
 
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+**主要课程**  
+计算机基础。  
  
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+**培养目标**  
+掌握计算机基本操作。
 
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+**专业方向**  
+网页设计师<br>
+网站编辑<br>
+网站策划<br>
+网站设计/制作<br>
+网站规则<br>
 
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Title - **开发语言** <span style="float: right; ">Duration</span>  
+_PHP：PHP是一种服务器端HTML-嵌入式脚本描述语言。其最强大和最重要的特征是其数据库集成层，使用它完成一个含有数据库功能的网页是不可 置信的简单。在HTML文件中， PHP脚本程序（语法类似于Perl或者c语言）可以使用特别的PHP标签进行引用，这样网页制作者也不必完全依赖HTML（标准通用标记语言下的一个应用）生成网页了。由于PHP是在服务器端执行的，客户端是看不到PHP代码的。 PHP可以完成任何CGI脚本可以完成的任务，但它的功能的发挥 取决于它和各种数据库的兼容性。 PHP除了可以使用HTTP进行通信，也可以使用IMAP, SNMP, NNTP, POP3协议。_  
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Title - **开发流程** <span style="float: right; ">Duration</span>  
+_为了加快网站建设的速度和减少失误，应该采用一定的制作流程来策划、设计、制作和发布网站。通过使用制作流程确定制作步骤，以确保每一步顺利完成。好的制作流程能帮助设计者解决策划网站的繁琐性，减小项目失败的风险。每个阶段都有独特的步骤，但相连的各阶段之间的边界并不明显。每一阶段并不总是有一个固定的目标，有时候，某一阶段可能会因为项目中未曾预料的改变而更改。步骤的实际数目和名称因人而异。_  
 
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- Computer Games。
+- Chat with friends。
