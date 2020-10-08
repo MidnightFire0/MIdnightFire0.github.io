@@ -4,7 +4,11 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: rgb(0, 174, 255); }
+    background-color: rgb(0, 174, 255); 
+    background-image: url("/assets/img/timg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
 
   a {
     color: #57A;
